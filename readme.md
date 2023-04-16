@@ -14,7 +14,7 @@ The chromedriver with the new proxy server will be redirected to the website [ht
 
 ## How to run
 
-To run the program you need to have python 3 and the dependencies mentioned below.
+To run the program you need to have python 3 and the dependencies mentioned below, also make sure you have chrome installed on your computer.
 
 Python 3 can be installed from [here](https://www.python.org/downloads/).
 
